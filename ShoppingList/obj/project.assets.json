@@ -530,7 +530,7 @@
       ]
     },
     "Xamarin.Android.Arch.Core.Common/1.0.0": {
-      "sha512": "lBtubYSL6gKvHgg2ztIE3sg+kbR5/A/T5xXPaKSVWvYbMcjAUO8qwSyiAcvKS+caqraDOEDj0U3tocUmztgvhw==",
+      "sha512": "1xP9Wtfvl36hjws6u76H5wkpGwhIMD/T45K/Z0Y0yOcaUbNuayrL2xeBHo69KE0Ojd5HgLPKZoGTDcBakUT71A==",
       "type": "package",
       "path": "xamarin.android.arch.core.common/1.0.0",
       "files": [
@@ -544,7 +544,7 @@
       ]
     },
     "Xamarin.Android.Arch.Lifecycle.Common/1.0.1": {
-      "sha512": "VjixXuamvBurt8aA5sNUfIwnEUgG3ryqA0D9BfDSzYagXD4GYs+DxOpJa/PPzTW6Plo/WBCqI7glnpbGdSDa4Q==",
+      "sha512": "4N9VqwE/lFuQA/EGsUMGReUkNSmBDua54MqhbU/7eklU1TGk6dFTEfjkdHU3eSmCf8aDlYfBznZeSDPY/o24eg==",
       "type": "package",
       "path": "xamarin.android.arch.lifecycle.common/1.0.1",
       "files": [
@@ -558,7 +558,7 @@
       ]
     },
     "Xamarin.Android.Arch.Lifecycle.Runtime/1.0.0": {
-      "sha512": "2CrB0iUJgWyjdbB31Of8zO3MMIYfcpl6UumEU7vq/EpRHjWkxDJCVYW+npWXIV2iGLDi5SBINZ6rnOYSM6k6uA==",
+      "sha512": "oTk1/2DEPnn566OmGxArtmncqVrR9RltB0ffFK73xna57ak0y1SzroVzUUo7rLAl0yYCN4tepU7rqwUzgA2pTQ==",
       "type": "package",
       "path": "xamarin.android.arch.lifecycle.runtime/1.0.0",
       "files": [
@@ -588,7 +588,7 @@
       ]
     },
     "Xamarin.Android.Support.Annotations/26.1.0.1": {
-      "sha512": "clVB/uAV+YuEuifeEwYUit95Ubm5JsXxKnXh6osjTqu4fu1RW2lhL5xMGoA2ebpSy30ksJJ0SeN6QF//PQ3QEg==",
+      "sha512": "wBUkvHdsfDeFHp2l2Ws+4FTr8SJABEJI9SP90eT1mKsbwDdBz8TZfL2nIx8+0LMoLzYRWvecodLuMvmDZnjRZw==",
       "type": "package",
       "path": "xamarin.android.support.annotations/26.1.0.1",
       "files": [
@@ -602,7 +602,7 @@
       ]
     },
     "Xamarin.Android.Support.Compat/26.1.0.1": {
-      "sha512": "5ERdI197gRrojmYZ/yG+ntpCN/BH98/uzmZQ1RwsypQkhlnwIdp8Ik2DsXW+Bi6KJwOoOLbv/4b+g2kuLd1caA==",
+      "sha512": "QcucKSfJnz4EltKDS1vpPwrThFWv2nDBT2SoXEBGxBlI+ZGg8XZR8sU25YZFpcE7CijkCYY5PRtpEVeBzh3ShQ==",
       "type": "package",
       "path": "xamarin.android.support.compat/26.1.0.1",
       "files": [
@@ -616,7 +616,7 @@
       ]
     },
     "Xamarin.Android.Support.Core.UI/26.1.0.1": {
-      "sha512": "mw7o7qiw6E6Rk0NXTgUss2p+otAdc21CzKvsZY6r22Qu7t2chsG4cfqho4tNqjgkILkuB0oTnJftTutydoaBBA==",
+      "sha512": "yJAEA4FprL7Z+9JhDB9Mo8q0u1lh8k8HwOPkKZODYEkaUbRzMB5KCdW+OMAOaTynCmFrzqRnRBqNNYuqHeYrHw==",
       "type": "package",
       "path": "xamarin.android.support.core.ui/26.1.0.1",
       "files": [
@@ -717,7 +717,7 @@
       ]
     },
     "Xamarin.Android.Support.v7.RecyclerView/26.1.0.1": {
-      "sha512": "/cyFBqM1FqB5v+gbRVLYCunoS7daIXAakg+o3PiPRaoXDYNUIBKiwYgHHa1k8KqF1eiGqtSNkA1b5D1qGjyIfw==",
+      "sha512": "yS0ayI1t8aH47zPm+z/bM7qrxXD6l/oOBSvwFJePU+EAkPAcLzvUxBuMvD/FYT0mi/BCWU3eNGL0F/JXvsaXyA==",
       "type": "package",
       "path": "xamarin.android.support.v7.recyclerview/26.1.0.1",
       "files": [
@@ -756,21 +756,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\VEx\\.nuget\\packages\\": {}
+    "C:\\Users\\u16302606\\.nuget\\packages\\": {},
+    "C:\\ProgramData\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VEx\\Documents\\Modules\\Y3\\INF 354\\CA 9 Xamarin\\ShoppingList\\ShoppingList\\ShoppingList.csproj",
+      "projectUniqueName": "C:\\Users\\u16302606\\Documents\\ShoppingList\\ShoppingList\\ShoppingList.csproj",
       "projectName": "ShoppingList",
-      "projectPath": "C:\\Users\\VEx\\Documents\\Modules\\Y3\\INF 354\\CA 9 Xamarin\\ShoppingList\\ShoppingList\\ShoppingList.csproj",
-      "packagesPath": "C:\\Users\\VEx\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VEx\\Documents\\Modules\\Y3\\INF 354\\CA 9 Xamarin\\ShoppingList\\ShoppingList\\obj\\",
+      "projectPath": "C:\\Users\\u16302606\\Documents\\ShoppingList\\ShoppingList\\ShoppingList.csproj",
+      "packagesPath": "C:\\Users\\u16302606\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\u16302606\\Documents\\ShoppingList\\ShoppingList\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\ProgramData\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\VEx\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\u16302606\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "monoandroid80"

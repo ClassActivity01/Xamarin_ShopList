@@ -23,3 +23,4 @@ SQLitePCLRaw.lib.e_sqlite3
 SQLitePCLRaw.provider.e_sqlite3
 System.Reflection.Extensions
 netstandard
+Mono.Data.Sqlite
